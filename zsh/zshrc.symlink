@@ -37,4 +37,7 @@ do
   source $file
 done
 
+# load z tool
+source $ZSH/z/install.sh
+
 unset config_files
